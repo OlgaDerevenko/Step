@@ -1,1 +1,77 @@
-Olalalalalalalala :-)
+Olalalalalalalala :-)    1  copy NUL .gitconfig
+    2  pwd
+    3  cd
+    4  cd ./Desktop/
+    5  mkdir step_repository
+    6  cd ./step_repository/
+    7  ls
+    8  git clean
+    9  git clone
+   10  cd ./Desktop
+   11  git clone cd ./Desktop
+   12  git clone https://github.com/OlgaDerevenko/Step.git
+   13  ls -l
+   14  ls -l
+   15  ls
+   16  fit status
+   17  git status
+   18  cd ./Step/
+   19  git status
+   20  git add File.txt
+   21  ls
+   22  ls
+   23  git status
+   24  git add File.TXT 
+   25  git status
+   26  git status
+   27  git add File.TXT 
+   28  git status
+   29  git commit -m"My first commit" File.TXT 
+   30  git status
+   31  git push
+   32  git push
+   33  git push
+   34  git add CheckList.TXT
+   35  cd .Step
+   36  git add CheckList.TXT
+   37  ls
+   38  ls
+   39  git status
+   40  git add CheckList.TXT 
+   41  ls
+   42  git status
+   43  git status
+   44  git add CheckList.doc
+   45  git status
+   46  git rm CheckList.TXT
+   47  git status
+   48  git commit -m"My second commit"
+   49  git status
+   50  git push
+   51  git status
+   52  ls
+   53  cd ./Desctop/
+   54  cd ./Desctop
+   55  git config --list
+   56  cd ./Desktop/ step_repository
+   57  git status
+   58  pwd
+   59  cd ./Desktop/
+   60  ls
+   61  cd step_repository
+   62  cd step_repository/
+   63  add 131221
+   64  add File2.TXT
+   65  ls
+   66  git add File
+   67  ls
+   68  git add File.TXT
+   69  ls
+   70  cd Step/
+   71  git add File 131221.TXT
+   72  ls
+   73  git status
+   74  git status
+   75  history
+   76  history >>File.TXT
+   77  TEST
