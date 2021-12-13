@@ -1,4 +1,4 @@
-Olalalalalalalala :-)    1  copy NUL .gitconfig
+    1  copy NUL .gitconfig
     2  pwd
     3  cd
     4  cd ./Desktop/
@@ -74,9 +74,141 @@ Olalalalalalalala :-)    1  copy NUL .gitconfig
    74  git status
    75  history
    76  history >>File.TXT
-   77  TEST
-   78  TEEEEEEEEEST :-)
-78  TEEEEEEEEEST :-)
-
-78  TEEEEEEEEEST :-)
-
+   77  cat File.TXT
+   78  git status
+   79  git add File.TXT
+   80  git status
+   81  ls
+   82  git status
+   83  git push
+   84  ls
+   85  git status
+   86  git pus
+   87  git push
+   88  git status
+   89  ls
+   90  cat File.TXT
+   91  cat File.TXT
+   92  git add File.TXT
+   93  git status
+   94  cat File.TXT
+   95  git commit File.TXT 
+   96  pwd
+   97  cd ./Desktop/
+   98  mkdir step_repository/
+   99  cd ./step_repository/
+  100  cd ./Step/
+  101  git status
+  102  ls
+  103  git commit -m"My first commit" File.TXT 
+  104  git push
+  105  git add File.TXT
+  106  git commit -m"My first commit" File.TXT 
+  107  git push
+  108  git fetch
+  109  git pull
+  110  git status
+  111  cat File.TXT
+  112  git pull
+  113  git log
+  114  git show 3c4e4af5245e718c76d35656c6f356dca323739e
+  115  git log
+  116  git show 203b2f124e79eb72d87111f9069bfd03043a2847
+  117  git log --author
+  118  git diff File.TXT
+  119  git diff File.TXT
+  120  git add File131221.TXT
+  121  cat File131221.TXT
+  122  git status
+  123  ls
+  124  git status
+  125  git rm File131221.TXT
+  126  git status
+  127  ls
+  128  git status
+  129  git help
+  130  git add all
+  131  git status
+  132  git commit -m"My first commit" File.TXT 
+  133  git status
+  134  git commit -m"qwerty" File131221.TXT 
+  135  git status
+  136  ls
+  137  git status
+  138  git push
+  139  git status
+  140  git status
+  141  git status
+  142  ls
+  143  git status
+  144  git commit -am "File"
+  145  git commit -am"qwerty" File131221.TXT 
+  146  git  status
+  147  ls
+  148  git commit -m"qwerty" File131221.TXT 
+  149  git commit -m"My first commit" File.TXT 
+  150  git status
+  151  git commit -m"My first commit" File.TXT
+  152  git status
+  153  git push
+  154  git pull
+  155  git status
+  156  git add
+  157  git add asdf
+  158  ls
+  159  git commit -m"Create asdf"
+  160  git push
+  161  git pull
+  162  git status
+  163  git pull
+  164  git push
+  165  git status
+  166  git status
+  167  git add asdf
+  168  git commit -m"Create asdf"
+  169  git push
+  170  git pull
+  171  git status
+  172  git add asdf
+  173  git commit -m"Create asdf"
+  174  git status
+  175  git push
+  176  git pull
+  177  git status
+  178  git add asdf
+  179  git status
+  180  git push
+  181  git pull
+  182  git status
+  183  git add asdf
+  184  git commit -m"Create asdf"
+  185  git status
+  186* 
+  187  git pull
+  188  git branch DEVELOP
+  189  git branch
+  190  git checkout 
+  191  git checkout DEVELOP
+  192  git branch
+  193  echo "For DEVELOP" >>For_DEVELOP.TXT
+  194  cat For_DEVELOP.TXT
+  195  git status
+  196  git add -A
+  197  git status
+  198  git push
+  199  git status
+  200  git pull
+  201  git status
+  202  git commit -m"tratata"
+  203  git pish
+  204  git push
+  205  git pull
+  206  git stt
+  207  git status
+  208  git push -u origin DEVELOP
+  209  git checkout main
+  210  git merge DEVELOP
+  211  git pull
+  212  git push
+  213  history
+  214  history >File.TXT
