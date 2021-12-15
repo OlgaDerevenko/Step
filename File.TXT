@@ -183,32 +183,109 @@
   183  git add asdf
   184  git commit -m"Create asdf"
   185  git status
-  186* 
-  187  git pull
-  188  git branch DEVELOP
-  189  git branch
-  190  git checkout 
-  191  git checkout DEVELOP
-  192  git branch
-  193  echo "For DEVELOP" >>For_DEVELOP.TXT
-  194  cat For_DEVELOP.TXT
-  195  git status
-  196  git add -A
-  197  git status
-  198  git push
-  199  git status
-  200  git pull
-  201  git status
-  202  git commit -m"tratata"
-  203  git pish
-  204  git push
-  205  git pull
-  206  git stt
-  207  git status
-  208  git push -u origin DEVELOP
-  209  git checkout main
-  210  git merge DEVELOP
-  211  git pull
-  212  git push
-  213  history
-  214  history >File.TXT
+  186  git pull
+  187  git branch DEVELOP
+  188  git branch
+  189  git checkout 
+  190  git checkout DEVELOP
+  191  git branch
+  192  echo "For DEVELOP" >>For_DEVELOP.TXT
+  193  cat For_DEVELOP.TXT
+  194  git status
+  195  git add -A
+  196  git status
+  197  git push
+  198  git status
+  199  git pull
+  200  git status
+  201  git commit -m"tratata"
+  202  git pish
+  203  git push
+  204  git pull
+  205  git stt
+  206  git status
+  207  git push -u origin DEVELOP
+  208  git checkout main
+  209  git merge DEVELOP
+  210  git pull
+  211  git push
+  212  history
+  213  history >File.TXT
+  214  cat File.TXT
+  215  git push
+  216  git commit -m"My first commit" File.TXT
+  217  git pull
+  218  git status
+  219  ls
+  220  git commit -m"File" File.TXT
+  221  git branch -m DEVELOP develop
+  222  git branch -d develop
+  223  git branch
+  224  git branch Test_Cases
+  225  git branch
+  226  git checkout Test_Cases
+  227  git branch
+  228   echo "For Test_Cases" >>TC1.TXT
+  229   echo "For Test_Cases" >>TC2.TXT
+  230   echo "For Test_Cases" >>TC3.TXT
+  231  git status
+  232  git add -A
+  233  git status
+  234  git push
+  235  git pi
+  236  git pull
+  237  git status
+  238  git commit -m"TC"
+  239  git push
+  240  git pull
+  241  git status
+  242  git push -u origin DEVELOP
+  243  git push -u origin Test_Cases
+  244  git rm CheckList.doc
+  245  ls
+  246  git rm File.TXT
+  247  git pull
+  248  git push
+  249  git commit -m"TC"
+  250  pwd
+  251  cd ./Desktop/
+  252  cd ./Step
+  253  cd ./step_repository/
+  254  cd ./Step
+  255  git status
+  256  git commit -m"TC"
+  257  git rm Check_List.doc
+  258  ls
+  259  git rm "File131221.TXT"
+  260  ls
+  261  git rm "For_DEVELOP.TXT"
+  262  git rm "mjjbkn.TXT"
+  263  ls
+  264  git rm "asdf"
+  265  ls
+  266  git commit -A
+  267  git status
+  268  git push
+  269  git pull
+  270  git rm "File131221.TXT"
+  271  git commit -A
+  272  git status
+  273  git push
+  274  git pull
+  275  git commit -m"File"
+  276  git commit -m"Tratata"
+  277  git push
+  278  git config
+  279  git status
+  280  pwd
+  281  cd ./Desktop
+  282  cd ./step_repository/
+  283  cd ./Step/
+  284  git branch Step
+  285  git branch main
+  286  git merge main
+  287  history
+  288  git checkout main 
+  289  git pull
+  290  history
+  291  history >File.TXT
